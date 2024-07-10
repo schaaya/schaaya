@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-<!--
-**schaaya/schaaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on FinSight- Financial Insights at Your Fingertip, Drug Discovery Analysis
 - 🌱 I’m currently learning Deep Learning, LLMOps
 - 📫 How to reach me: schaaya@umich.edu
 - ⚡ Fun fact: When I'm not coding or working on my latest project, you can often find me creating illustrations!
--->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
