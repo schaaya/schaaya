@@ -1,10 +1,12 @@
-## Hi there 👋
-
-Here are some ideas to get you started:
+## Hi there, I'm Sappa Chaaya👋
+<h3 align="center">Passionate Software Engineer with Expertise in AI</h3>
 
 - 🔭 I’m currently working on FinSight- Financial Insights at Your Fingertip, Drug Discovery Analysis
+  
 - 🌱 I’m currently learning Deep Learning, LLMOps
+  
 - 📫 How to reach me: schaaya@umich.edu
+  
 - ⚡ Fun fact: When I'm not coding or working on my latest project, you can often find me creating illustrations!
 
 
