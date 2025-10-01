@@ -1,7 +1,7 @@
 ## Hi there, I'm Sappa Chaaya👋
 <h3 align="center">Passionate Software Engineer with Expertise in AI</h3>
 
-- 🔭 I’m currently working on FinSight- Financial Insights at Your Fingertip, Drug Discovery Analysis
+- 🔭 I’m currently working on FinSight- Financial Insights at Your Fingertip
   
 - 🌱 I’m currently learning Deep Learning, LLMOps
   
